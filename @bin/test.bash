@@ -5,7 +5,8 @@
 #
 # Example calls:
 #
-#     ./@bin/test.bash
+#     LFS_ENABLED=0 ./@bin/test.bash
+#     LFS_ENABLED=1 ./@bin/test.bash
 #
 ###
 
